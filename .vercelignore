@@ -1,0 +1,4 @@
+# Ignore build output to force fresh builds
+/vercel/output
+.vercel/output
+output/
